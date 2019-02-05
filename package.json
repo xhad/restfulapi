@@ -11,7 +11,7 @@
   "dependencies": {
     "body-parser": "^1.14.1",
     "express": "^4.13.3",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.11",
     "method-override": "^2.3.5",
     "mongoose": "^4.2.4",
     "resourcejs": "^1.0.0"
