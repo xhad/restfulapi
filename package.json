@@ -13,7 +13,7 @@
     "express": "^4.13.3",
     "lodash": "^3.10.1",
     "method-override": "^2.3.5",
-    "mongoose": "^4.2.4",
+    "mongoose": "^6.4.6",
     "resourcejs": "^1.0.0"
   }
 }
